@@ -1,2 +1,2 @@
-# Football-Player-Performance-Dashboard-and-Goal-Predictionr
-This mainly tells about the analysis made about football players in the data analysis which helps us to understand about the game and their standard fields.
+# 'E‑Commerce Sales Analysis Dashboard'
+This project involves building an interactive Power BI dashboard to analyze and visualize e‑commerce sales data. It tracks key performance indicators (KPIs) such as total sales, profit, order volume, and customer demographics. The dashboard provides insights into sales trends over time, top-selling products, regional performance, and customer purchasing behavior, enabling data-driven decision-making for improved business strategies.
